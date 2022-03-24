@@ -1,1 +1,3 @@
-Namaste ji
+Welcome to git world!!
+Hello everyone!
+Git checkout to switch branches
