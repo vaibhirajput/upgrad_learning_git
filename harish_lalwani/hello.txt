@@ -1,1 +1,11 @@
 Hi everyone
+
+git checkout -b tanya origin/tanya -  this means that we are creating a
+branch name tanya in our local, and this local branch will be in sync with remote
+branch tanya
+Above command you will do only one time, when this branch is not in your local.
+
+git checkout harish - This command will switch to the local branch harish.
+This you will do only when you have this branch available in local
+
+git checkout <branch_name> -- To switch to branch in your local repo.
