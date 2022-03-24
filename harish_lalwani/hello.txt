@@ -9,3 +9,8 @@ git checkout harish - This command will switch to the local branch harish.
 This you will do only when you have this branch available in local
 
 git checkout <branch_name> -- To switch to branch in your local repo.
+
+Adding few more commits to understand branches.
+Now after you have created the branch, you will not see 
+the changes in master
+branch, unless you merge your branch with master
