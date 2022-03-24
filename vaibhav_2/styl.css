@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.navbar{
+    
+    background: rgb(88, 88, 133);
+    height: 70px;
+    border: 2px solid black;
+}
+.logo{
+    color: white;
+    font-size: 20px;
+    margin: 100px 100px;
+
+}
+.navbar ul li a {
+    color: aliceblue;
+    margin: 10px ;
+    padding: auto;
+}
+.navbar ul li{
+
+    float: right;
+}
